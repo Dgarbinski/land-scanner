@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dgarbinski.github.io/land-scanner/sitemap.xml
